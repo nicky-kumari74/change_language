@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">changeLanguage</string>
+    <string name="what_is_python">पायथन क्या है?</string>
+    <string name="python_is_a_highlevel_object_oriented_programming_language">Python एक हाईलेवल ऑब्जेक्ट ओरिएंटेड प्रोग्रामिंग लैंग्वेज है।</string>
+    <string name="change_language">भाषा बदलें</string>
+</resources>

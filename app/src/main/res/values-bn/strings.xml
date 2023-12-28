@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">changeLanguage</string>
+    <string name="what_is_python">পাইথন কি?</string>
+    <string name="python_is_a_highlevel_object_oriented_programming_language">পাইথন একটি হাইলেভেল অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং ভাষা।</string>
+    <string name="change_language">ভাষা পরিবর্তন করুন</string>
+</resources>

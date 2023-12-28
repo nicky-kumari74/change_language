@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">changeLanguage</string>
+    <string name="what_is_python">What is python?</string>
+    <string name="python_is_a_highlevel_object_oriented_programming_language">Python is a Highlevel object Oriented programming language.</string>
+    <string name="change_language">Change language</string>
+</resources>
